@@ -273,7 +273,7 @@ Number data types in Python:
 10. Declare a variable is_married and assign a value to it
 11. Declare a variable is_true and assign a value to it
 12. Declare a variable is_light_on and assign a value to it
-13. Declare multiple variable on one line
+13. Declare multiple variables on one line
 
 ### Exercises: Level 2
 
